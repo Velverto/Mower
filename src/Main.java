@@ -69,6 +69,7 @@ public class Main {
 	    				System.out.println("Exiting!");
 	    				exit = true;
 	    				in.close();
+					break;
 	    			default:
 	    				System.out.println("Not a valid number/chatacter!");
 	    				break;
