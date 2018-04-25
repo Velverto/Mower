@@ -9,3 +9,9 @@ B)Install
 2: Open the shell, go to the directory with files downloaded. Make sure you end up in same directory with build.xml
 3: Run the buildscript by typing:
 	ant compile jar run
+	
+	
+	
+You can also run it without buildscript by simple go to src folder and then type:
+javac Main.java
+java Main
